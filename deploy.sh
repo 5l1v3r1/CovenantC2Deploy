@@ -12,7 +12,8 @@ sudo apt-get update
 sudo apt-get install apt-transport-https
 sudo apt-get update
 
-apt-get install dotnet-sdk-2.2
+apt-get install dotnet-sdk-2.2 -y
+apt-get install dotnet-sdk-2.1 -y
 
 mkdir /pentest
 cd /pentest
