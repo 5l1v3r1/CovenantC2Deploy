@@ -14,6 +14,8 @@ sudo apt-get update
 
 apt-get install dotnet-sdk-2.2 -y
 apt-get install dotnet-sdk-2.1 -y
+apt-get install dotnet-sdk-3.0 -y
+apt-get install dotnet-sdk-3.1 -y
 
 mkdir /pentest
 cd /pentest
